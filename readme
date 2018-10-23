@@ -1,5 +1,6 @@
-// INSTRUCTIONS
-// TO USE THIS BOILERPLATE JUST CLONE REPO
-// npm install 
-// npm client-install
-// npm run developer 
+#################INSTRUCTIONS#########################
+Clone this repository.
+cd to cloned directory
+run "npm install" to install node.js dependancies
+run "npm client-install" to auto install reactjs dependancies in client folder
+run "npm run developer" to spin up both client and server concurrently
